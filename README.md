@@ -1,4 +1,4 @@
-# n8ntask — Secure Order Webhook → Status Update (n8n + Node.js)
+# Secure Order Webhook → Status Update (n8n + Node.js)
 
 A small end-to-end demo showing how to:
 
@@ -107,3 +107,4 @@ Edit these values in `send_order.js` if needed:
 ## License
 
 ISC (as configured in `package.json`).
+
